@@ -22,7 +22,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Thanks For visiting our website Aakash Sudan
+                    Thanks For visiting my website Aakash Sudan
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
